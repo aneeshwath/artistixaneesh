@@ -538,7 +538,7 @@ table{
     
       }
 
-      .icon_instagram, .icon_youtube, .icon_behance, .icon_linkedin{
+      .icon_instagram, .icon_youtube, .icon_behance, .icon_linkedin, .icon_whatsapp{
         border-radius: 10px;
         margin: 2rem;
         display: inline-block;
@@ -553,7 +553,7 @@ table{
         height: 200px;
       }
       .logo{
-        width: 50%;
+        width: 80%;
       }
   }
 
